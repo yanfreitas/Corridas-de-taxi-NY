@@ -9,3 +9,5 @@ Ferramentas utilizadas na análise:
 Linguagem de programação - python
 Libs - matplotlib, seaborn, pandas, folium, numpy
 Ambiente - Jupyter notebook
+
+Os mapas de calor feitos com folium não aparecem na vizialização do github, sendo assim estão separados como imagens.

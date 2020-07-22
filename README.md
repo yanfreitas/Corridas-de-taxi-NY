@@ -18,4 +18,4 @@
 - Ambiente - Jupyter notebook
 
 ## OBS
--Os mapas de calor feitos com folium não aparecem na vizialização do github, sendo assim estão separados como imagens.
+- Os mapas de calor feitos com folium não aparecem na vizialização do github, sendo assim estão separados como imagens.
